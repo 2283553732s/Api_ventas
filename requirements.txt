@@ -1,0 +1,7 @@
+fastapi
+pandas
+uvicorn
+pydantic
+numpy
+matplotlib
+typing

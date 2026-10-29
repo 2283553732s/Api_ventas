@@ -1,0 +1,501 @@
+﻿id_venta,fecha,producto,categoria,precio_unitario,cantidad,descuento,total,region,canal,vendedor
+1381,2025-01-02,Mouse,Electrónica,296.84,1,0.0,296.84,Norte,Marketplace,Ana
+1104,2025-01-03,Organizador,Hogar,321.41,1,0.1,289.27,Norte,En línea,Carlos
+1465,2025-01-03,Teclado,Electrónica,602.02,1,0.05,571.92,Sur,Tienda física,Carlos
+1303,2025-01-04,Mouse,Electrónica,285.85,1,0.15,242.97,Occidente,Tienda física,Sofía
+1410,2025-01-06,Teclado,Electrónica,682.67,4,0.0,2730.68,Occidente,Marketplace,Luis
+1415,2025-01-07,Agenda,Papelería,166.22,2,0.1,299.2,Sur,En línea,Carlos
+1478,2025-01-07,Audífonos,Electrónica,426.46,1,0.0,426.46,Centro,Tienda física,Carlos
+1233,2025-01-08,Gorra,Ropa,167.84,1,0.0,167.84,Norte,Tienda física,María
+1300,2025-01-08,Teclado,Electrónica,678.79,1,0.1,610.91,Norte,Tienda física,Ana
+1170,2025-01-09,Balón,Deportes,324.16,1,0.0,324.16,Norte,Tienda física,Luis
+1272,2025-01-09,Playera,Ropa,199.32,4,0.0,797.28,Sur,Tienda física,Carlos
+1369,2025-01-09,Cuaderno,Papelería,76.68,1,0.0,76.68,Norte,Marketplace,Sofía
+1429,2025-01-10,Audífonos,Electrónica,465.81,1,0.0,465.81,Occidente,En línea,Ana
+1454,2025-01-10,Bocina,Electrónica,908.02,1,0.0,908.02,Occidente,Tienda física,Luis
+1138,2025-01-12,Taza,Hogar,118.37,4,0.05,449.81,Centro,En línea,Sofía
+1385,2025-01-12,Taza,Hogar,125.56,2,0.15,213.45,Occidente,Tienda física,Sofía
+1147,2025-01-13,Teclado,Electrónica,681.49,4,0.0,2725.96,Sur,Tienda física,Diego
+1117,2025-01-14,Teclado,Electrónica,633.55,4,0.1,2280.78,Sur,Tienda física,Luis
+1328,2025-01-14,Playera,Ropa,245.8,1,0.0,245.8,Centro,Tienda física,Diego
+1056,2025-01-16,Cuaderno,Papelería,68.24,1,0.0,68.24,Centro,Tienda física,María
+1250,2025-01-16,Audífonos,Electrónica,456.37,3,0.1,1232.2,Norte,Tienda física,María
+1352,2025-01-17,Agenda,Papelería,173.5,1,0.15,147.47,Sur,En línea,Luis
+1397,2025-01-17,Lámpara,Hogar,422.06,2,0.1,759.71,Occidente,En línea,María
+1150,2025-01-22,Plumas,Papelería,56.88,1,0.0,56.88,Occidente,Marketplace,Diego
+1036,2025-01-24,Mouse,Electrónica,268.68,2,0.05,510.49,Occidente,Marketplace,Carlos
+1279,2025-01-24,Taza,Hogar,129.03,1,0.0,129.03,Centro,Tienda física,Sofía
+1045,2025-01-25,Tapete yoga,Deportes,450.76,2,0.0,901.52,Norte,En línea,Carlos
+1387,2025-01-25,Gorra,Ropa,167.94,3,0.0,503.82,Norte,En línea,Carlos
+1069,2025-01-28,Cuaderno,Papelería,80.6,1,0.0,80.6,Norte,En línea,Carlos
+1127,2025-01-29,Playera,Ropa,209.87,2,0.0,419.74,Norte,Marketplace,Carlos
+1217,2025-01-29,Agenda,Papelería,152.32,1,0.15,129.47,Centro,Tienda física,Diego
+1439,2025-01-30,Teclado,Electrónica,641.71,1,0.15,545.45,Sur,Tienda física,Luis
+1246,2025-01-31,Balón,Deportes,335.38,4,0.1,1207.37,Norte,Tienda física,Sofía
+1280,2025-01-31,Cuaderno,Papelería,72.95,2,0.05,138.6,Occidente,Marketplace,Ana
+1431,2025-01-31,Lámpara,Hogar,424.86,3,0.0,1274.58,Occidente,Marketplace,María
+1007,2025-02-01,Pantalón,Ropa,475.96,1,0.05,452.16,Norte,En línea,Diego
+1196,2025-02-01,Balón,Deportes,340.47,3,0.15,868.2,Centro,Marketplace,Carlos
+1001,2025-02-02,Mancuernas,Deportes,599.91,1,0.15,509.92,Centro,Tienda física,Diego
+1172,2025-02-02,Sudadera,Ropa,568.11,5,0.15,2414.47,Occidente,En línea,Luis
+1033,2025-02-03,Sudadera,Ropa,474.55,3,0.15,1210.1,Occidente,Marketplace,Ana
+1133,2025-02-03,Organizador,Hogar,315.27,1,0.0,315.27,Occidente,Marketplace,Ana
+1359,2025-02-03,Sudadera,Ropa,519.76,1,0.0,519.76,Centro,Tienda física,Carlos
+1010,2025-02-04,Tapete yoga,Deportes,390.43,2,0.0,780.86,Sur,Marketplace,Diego
+1243,2025-02-04,Playera,Ropa,210.98,2,0.0,421.96,Sur,Marketplace,María
+1376,2025-02-04,Teclado,Electrónica,635.35,1,0.0,635.35,Norte,Tienda física,Sofía
+1087,2025-02-05,Mochila,Papelería,618.15,1,0.0,618.15,Sur,Tienda física,Diego
+1218,2025-02-05,Audífonos,Electrónica,461.29,4,0.0,1845.16,Sur,En línea,Carlos
+1258,2025-02-07,Cuaderno,Papelería,81.54,3,0.0,244.62,Norte,En línea,Ana
+1171,2025-02-08,Cuaderno,Papelería,83.84,1,0.0,83.84,Occidente,En línea,Luis
+1460,2025-02-08,Gorra,Ropa,187.68,2,0.0,375.36,Centro,En línea,Ana
+1310,2025-02-09,Agenda,Papelería,144.42,3,0.1,389.93,Occidente,Tienda física,Diego
+1322,2025-02-09,Pantalón,Ropa,435.38,2,0.0,870.76,Centro,Tienda física,Carlos
+1480,2025-02-09,Mouse,Electrónica,253.49,4,0.0,1013.96,Norte,Marketplace,Ana
+1120,2025-02-11,Mancuernas,Deportes,605.41,1,0.0,605.41,Centro,Tienda física,Luis
+1365,2025-02-12,Sudadera,Ropa,578.53,2,0.05,1099.21,Norte,Marketplace,Diego
+1198,2025-02-13,Agenda,Papelería,174.12,1,0.15,148.0,Sur,Marketplace,Diego
+1313,2025-02-13,Balón,Deportes,351.38,2,0.15,597.35,Sur,Tienda física,Diego
+1497,2025-02-13,Tapete yoga,Deportes,434.7,1,0.15,369.5,Sur,Tienda física,Sofía
+1386,2025-02-14,Sudadera,Ropa,527.65,1,0.0,527.65,Centro,Marketplace,Luis
+1418,2025-02-14,Taza,Hogar,117.91,5,0.0,589.55,Norte,En línea,Luis
+1436,2025-02-15,Mochila,Papelería,655.54,3,0.0,1966.62,Sur,Marketplace,Sofía
+1018,2025-02-16,Tapete yoga,Deportes,451.47,4,0.0,1805.88,Centro,Marketplace,Carlos
+1157,2025-02-16,Plumas,Papelería,51.36,1,0.0,51.36,Centro,En línea,Diego
+1221,2025-02-16,Balón,Deportes,329.08,1,0.05,312.63,Norte,En línea,Luis
+1074,2025-02-17,Mancuernas,Deportes,571.37,3,0.05,1628.4,Centro,Marketplace,Diego
+1434,2025-02-17,Plumas,Papelería,57.12,2,0.0,114.24,Centro,Tienda física,María
+1414,2025-02-18,Pantalón,Ropa,498.12,4,0.0,1992.48,Norte,Marketplace,Diego
+1443,2025-02-18,Plumas,Papelería,56.55,1,0.0,56.55,Occidente,Marketplace,María
+1100,2025-02-21,Playera,Ropa,198.92,1,0.05,188.97,Sur,Marketplace,Sofía
+1118,2025-02-21,Balón,Deportes,382.84,1,0.0,382.84,Norte,Marketplace,Luis
+1241,2025-02-21,Sudadera,Ropa,531.17,3,0.05,1513.83,Occidente,Tienda física,Sofía
+1306,2025-02-21,Mouse,Electrónica,279.05,2,0.0,558.1,Sur,En línea,Sofía
+1329,2025-02-21,Playera,Ropa,245.34,1,0.0,245.34,Norte,Tienda física,Luis
+1462,2025-02-21,Tapete yoga,Deportes,427.82,4,0.0,1711.28,Centro,En línea,Diego
+1256,2025-02-22,Teclado,Electrónica,719.96,1,0.15,611.97,Norte,En línea,Diego
+1408,2025-02-22,Taza,Hogar,133.32,1,0.0,133.32,Norte,Marketplace,Diego
+1457,2025-02-24,Tapete yoga,Deportes,438.32,4,0.05,1665.62,Sur,Tienda física,Carlos
+1182,2025-02-25,Lámpara,Hogar,368.62,3,0.0,1105.86,Occidente,Marketplace,Ana
+1273,2025-02-25,Mancuernas,Deportes,602.85,1,0.05,572.71,Norte,En línea,Luis
+1357,2025-02-25,Mouse,Electrónica,313.59,1,0.0,313.59,Centro,Marketplace,Luis
+1390,2025-02-25,Taza,Hogar,127.96,1,0.05,121.56,Norte,Tienda física,Carlos
+1058,2025-02-26,Cojín,Hogar,272.34,3,0.05,776.17,Norte,Marketplace,María
+1083,2025-02-28,Playera,Ropa,240.32,1,0.0,240.32,Norte,En línea,Luis
+1178,2025-02-28,Mouse,Electrónica,306.84,1,0.1,276.16,Centro,Marketplace,Diego
+1287,2025-02-28,Organizador,Hogar,283.9,2,0.1,511.02,Sur,En línea,Carlos
+1041,2025-03-02,Gorra,Ropa,166.72,1,0.0,166.72,Occidente,Tienda física,Ana
+1168,2025-03-02,Bocina,Electrónica,838.77,2,0.05,1593.66,Centro,Tienda física,Sofía
+1187,2025-03-02,Lámpara,Hogar,378.55,1,0.0,378.55,Occidente,Tienda física,Sofía
+1350,2025-03-02,Pantalón,Ropa,459.18,2,0.0,918.36,Norte,Marketplace,María
+1467,2025-03-02,Teclado,Electrónica,664.89,1,0.0,664.89,Occidente,En línea,Luis
+1262,2025-03-04,Taza,Hogar,121.34,2,0.15,206.28,Centro,Marketplace,Sofía
+1259,2025-03-05,Mochila,Papelería,704.59,3,0.0,2113.77,Sur,Tienda física,Ana
+1411,2025-03-05,Mouse,Electrónica,309.72,2,0.15,526.52,Occidente,En línea,Diego
+1230,2025-03-06,Mouse,Electrónica,264.23,2,0.0,528.46,Sur,Tienda física,Diego
+1251,2025-03-07,Balón,Deportes,329.54,1,0.0,329.54,Sur,En línea,María
+1349,2025-03-07,Cuaderno,Papelería,82.25,1,0.0,82.25,Occidente,Tienda física,Sofía
+1392,2025-03-07,Tapete yoga,Deportes,447.58,4,0.0,1790.32,Occidente,Tienda física,Luis
+1023,2025-03-08,Gorra,Ropa,174.45,1,0.0,174.45,Occidente,Tienda física,Ana
+1469,2025-03-08,Agenda,Papelería,160.38,1,0.1,144.34,Occidente,Marketplace,Carlos
+1253,2025-03-10,Playera,Ropa,209.9,2,0.15,356.83,Norte,Marketplace,Diego
+1072,2025-03-11,Tapete yoga,Deportes,382.52,1,0.0,382.52,Sur,Tienda física,Diego
+1052,2025-03-13,Tapete yoga,Deportes,413.84,2,0.0,827.68,Norte,Marketplace,Luis
+1398,2025-03-13,Botella deportiva,Deportes,211.0,2,0.0,422.0,Sur,En línea,María
+1102,2025-03-14,Balón,Deportes,328.32,2,0.0,656.64,Occidente,Tienda física,Ana
+1426,2025-03-14,Taza,Hogar,118.62,3,0.05,338.07,Occidente,Marketplace,Carlos
+1009,2025-03-15,Agenda,Papelería,178.48,3,0.15,455.12,Sur,Marketplace,Carlos
+1224,2025-03-15,Plumas,Papelería,55.38,1,0.15,47.07,Centro,Marketplace,Ana
+1339,2025-03-15,Audífonos,Electrónica,457.79,1,0.05,434.9,Centro,En línea,María
+1142,2025-03-20,Plumas,Papelería,53.93,2,0.0,107.86,Centro,Marketplace,Carlos
+1363,2025-03-23,Teclado,Electrónica,621.4,1,0.0,621.4,Norte,Tienda física,Sofía
+1032,2025-03-24,Mouse,Electrónica,252.33,1,0.1,227.1,Sur,Marketplace,Sofía
+1078,2025-03-24,Cojín,Hogar,256.44,4,0.0,1025.76,Centro,En línea,Ana
+1412,2025-03-25,Sudadera,Ropa,481.66,1,0.1,433.49,Norte,Tienda física,Diego
+1326,2025-03-26,Taza,Hogar,128.17,1,0.1,115.35,Occidente,En línea,Carlos
+1486,2025-03-26,Bocina,Electrónica,897.56,5,0.05,4263.41,Norte,Marketplace,Ana
+1148,2025-03-27,Tapete yoga,Deportes,466.05,2,0.1,838.89,Centro,Tienda física,Carlos
+1327,2025-03-28,Agenda,Papelería,145.49,1,0.15,123.67,Occidente,En línea,Carlos
+1097,2025-03-29,Mancuernas,Deportes,573.56,4,0.15,1950.1,Sur,En línea,Diego
+1189,2025-03-29,Agenda,Papelería,157.78,1,0.15,134.11,Centro,En línea,Diego
+1384,2025-03-29,Lámpara,Hogar,435.86,1,0.05,414.07,Occidente,Marketplace,Ana
+1119,2025-03-31,Taza,Hogar,114.85,1,0.0,114.85,Norte,En línea,Ana
+1315,2025-03-31,Mochila,Papelería,644.2,3,0.1,1739.34,Sur,En línea,Luis
+1483,2025-04-02,Plumas,Papelería,61.56,1,0.0,61.56,Sur,En línea,Luis
+1346,2025-04-04,Mancuernas,Deportes,552.31,2,0.0,1104.62,Norte,Marketplace,Sofía
+1211,2025-04-06,Playera,Ropa,202.56,3,0.15,516.53,Norte,Marketplace,Carlos
+1380,2025-04-06,Botella deportiva,Deportes,207.29,1,0.05,196.93,Sur,En línea,Ana
+1209,2025-04-07,Agenda,Papelería,162.83,4,0.0,651.32,Occidente,En línea,Sofía
+1206,2025-04-08,Organizador,Hogar,308.26,1,0.0,308.26,Norte,Tienda física,Carlos
+1292,2025-04-08,Cuaderno,Papelería,75.75,3,0.0,227.25,Occidente,En línea,Diego
+1216,2025-04-10,Audífonos,Electrónica,425.38,5,0.1,1914.21,Norte,En línea,Carlos
+1143,2025-04-11,Tapete yoga,Deportes,461.81,1,0.05,438.72,Norte,En línea,María
+1281,2025-04-11,Balón,Deportes,331.68,2,0.0,663.36,Sur,Marketplace,Ana
+1039,2025-04-12,Organizador,Hogar,288.9,4,0.05,1097.82,Sur,Tienda física,María
+1111,2025-04-12,Organizador,Hogar,338.9,1,0.1,305.01,Centro,En línea,Ana
+1413,2025-04-12,Audífonos,Electrónica,459.31,1,0.0,459.31,Centro,Tienda física,María
+1152,2025-04-13,Cuaderno,Papelería,82.74,3,0.15,210.99,Occidente,Tienda física,Sofía
+1314,2025-04-13,Mancuernas,Deportes,588.71,1,0.0,588.71,Norte,Marketplace,María
+1399,2025-04-13,Botella deportiva,Deportes,177.7,1,0.15,151.04,Sur,En línea,María
+1299,2025-04-14,Playera,Ropa,234.75,2,0.0,469.5,Norte,Tienda física,Diego
+1450,2025-04-15,Cojín,Hogar,280.19,1,0.1,252.17,Centro,En línea,Luis
+1096,2025-04-16,Mochila,Papelería,612.71,3,0.05,1746.22,Sur,En línea,Ana
+1481,2025-04-16,Bocina,Electrónica,880.5,2,0.15,1496.85,Sur,Marketplace,Sofía
+1495,2025-04-16,Playera,Ropa,206.87,1,0.05,196.53,Norte,En línea,Luis
+1342,2025-04-17,Sudadera,Ropa,505.51,1,0.05,480.23,Norte,Tienda física,Luis
+1154,2025-04-18,Pantalón,Ropa,459.22,2,0.0,918.44,Centro,Tienda física,Luis
+1271,2025-04-18,Tapete yoga,Deportes,397.95,2,0.15,676.51,Centro,Marketplace,Sofía
+1419,2025-04-19,Pantalón,Ropa,484.72,2,0.05,920.97,Occidente,Marketplace,Luis
+1263,2025-04-20,Agenda,Papelería,169.93,2,0.0,339.86,Centro,En línea,Sofía
+1353,2025-04-20,Botella deportiva,Deportes,182.01,4,0.05,691.64,Occidente,Tienda física,María
+1442,2025-04-20,Cojín,Hogar,280.78,2,0.0,561.56,Centro,En línea,Sofía
+1136,2025-04-21,Bocina,Electrónica,937.75,1,0.0,937.75,Sur,Marketplace,Ana
+1190,2025-04-21,Cojín,Hogar,271.68,2,0.0,543.36,Centro,Marketplace,María
+1307,2025-04-21,Balón,Deportes,322.92,1,0.1,290.63,Sur,En línea,Sofía
+1226,2025-04-22,Plumas,Papelería,55.25,1,0.1,49.73,Occidente,Marketplace,Carlos
+1239,2025-04-23,Mochila,Papelería,703.78,3,0.15,1794.64,Occidente,Marketplace,Carlos
+1333,2025-04-24,Cuaderno,Papelería,72.47,1,0.0,72.47,Centro,En línea,Carlos
+1400,2025-04-24,Lámpara,Hogar,355.21,1,0.15,301.93,Sur,Marketplace,Carlos
+1088,2025-04-25,Lámpara,Hogar,377.82,1,0.15,321.15,Norte,En línea,María
+1447,2025-04-25,Tapete yoga,Deportes,421.28,4,0.1,1516.61,Centro,Tienda física,María
+1309,2025-04-26,Mochila,Papelería,642.12,4,0.15,2183.21,Sur,Tienda física,Luis
+1338,2025-04-26,Organizador,Hogar,327.45,2,0.1,589.41,Occidente,En línea,María
+1368,2025-04-26,Mochila,Papelería,706.09,2,0.0,1412.18,Occidente,En línea,Diego
+1403,2025-04-27,Botella deportiva,Deportes,195.76,1,0.0,195.76,Norte,Marketplace,Diego
+1167,2025-04-28,Audífonos,Electrónica,490.22,3,0.0,1470.66,Sur,En línea,María
+1321,2025-04-28,Mouse,Electrónica,260.61,1,0.0,260.61,Sur,En línea,Carlos
+1066,2025-04-29,Balón,Deportes,348.89,2,0.15,593.11,Sur,En línea,Diego
+1077,2025-05-01,Gorra,Ropa,167.42,2,0.0,334.84,Norte,Marketplace,Diego
+1254,2025-05-01,Taza,Hogar,113.29,1,0.0,113.29,Centro,Tienda física,Luis
+1294,2025-05-02,Agenda,Papelería,162.54,2,0.1,292.57,Occidente,En línea,Diego
+1487,2025-05-02,Tapete yoga,Deportes,432.5,2,0.0,865.0,Centro,En línea,María
+1169,2025-05-03,Cojín,Hogar,260.58,1,0.1,234.52,Centro,Tienda física,Carlos
+1371,2025-05-03,Teclado,Electrónica,694.28,1,0.15,590.14,Centro,Tienda física,Luis
+1199,2025-05-04,Playera,Ropa,237.25,2,0.0,474.5,Norte,En línea,Carlos
+1197,2025-05-06,Pantalón,Ropa,513.83,2,0.0,1027.66,Norte,En línea,Luis
+1139,2025-05-07,Lámpara,Hogar,402.45,1,0.05,382.33,Sur,Marketplace,Carlos
+1268,2025-05-07,Mochila,Papelería,615.66,1,0.15,523.31,Sur,Tienda física,Carlos
+1044,2025-05-10,Teclado,Electrónica,666.86,2,0.05,1267.03,Sur,En línea,Carlos
+1053,2025-05-13,Lámpara,Hogar,365.23,3,0.0,1095.69,Occidente,Marketplace,Diego
+1194,2025-05-13,Organizador,Hogar,279.32,1,0.15,237.42,Sur,Marketplace,Carlos
+1301,2025-05-13,Organizador,Hogar,336.89,1,0.0,336.89,Sur,En línea,Luis
+1063,2025-05-14,Sudadera,Ropa,536.47,1,0.0,536.47,Centro,Tienda física,Luis
+1201,2025-05-14,Balón,Deportes,336.9,1,0.15,286.36,Sur,Marketplace,Ana
+1393,2025-05-15,Cojín,Hogar,252.86,4,0.0,1011.44,Sur,Marketplace,Diego
+1022,2025-05-16,Botella deportiva,Deportes,199.06,1,0.1,179.15,Occidente,Marketplace,Sofía
+1068,2025-05-16,Audífonos,Electrónica,481.96,2,0.15,819.33,Occidente,Marketplace,María
+1332,2025-05-16,Gorra,Ropa,173.07,3,0.15,441.33,Centro,Tienda física,Carlos
+1374,2025-05-17,Organizador,Hogar,312.15,1,0.0,312.15,Centro,Marketplace,Carlos
+1498,2025-05-17,Mouse,Electrónica,266.86,1,0.15,226.83,Sur,Marketplace,Ana
+1379,2025-05-19,Organizador,Hogar,304.69,3,0.05,868.37,Centro,Tienda física,Sofía
+1188,2025-05-20,Organizador,Hogar,303.46,1,0.0,303.46,Centro,Marketplace,Carlos
+1094,2025-05-22,Audífonos,Electrónica,418.68,4,0.0,1674.72,Norte,Marketplace,Luis
+1440,2025-05-26,Botella deportiva,Deportes,208.42,1,0.1,187.58,Sur,En línea,María
+1027,2025-05-27,Tapete yoga,Deportes,419.98,3,0.0,1259.94,Centro,Tienda física,Diego
+1164,2025-05-29,Tapete yoga,Deportes,423.39,4,0.0,1693.56,Norte,En línea,Diego
+1065,2025-05-30,Mochila,Papelería,756.1,3,0.1,2041.47,Centro,Marketplace,Ana
+1144,2025-05-30,Sudadera,Ropa,518.34,1,0.1,466.51,Norte,Tienda física,Sofía
+1163,2025-05-30,Tapete yoga,Deportes,453.88,1,0.1,408.49,Centro,Tienda física,Luis
+1373,2025-05-30,Tapete yoga,Deportes,378.45,2,0.0,756.9,Occidente,Marketplace,Luis
+1496,2025-05-31,Cuaderno,Papelería,75.84,3,0.0,227.52,Sur,Marketplace,Sofía
+1248,2025-06-01,Sudadera,Ropa,496.95,3,0.05,1416.31,Occidente,En línea,María
+1165,2025-06-02,Teclado,Electrónica,661.34,1,0.0,661.34,Sur,Tienda física,Luis
+1275,2025-06-02,Cuaderno,Papelería,82.71,1,0.15,70.3,Occidente,Tienda física,Luis
+1425,2025-06-02,Mouse,Electrónica,252.24,1,0.0,252.24,Occidente,En línea,Luis
+1464,2025-06-02,Pantalón,Ropa,503.75,3,0.0,1511.25,Occidente,Tienda física,María
+1500,2025-06-05,Cojín,Hogar,271.47,1,0.15,230.75,Occidente,Marketplace,Ana
+1238,2025-06-07,Sudadera,Ropa,555.3,4,0.0,2221.2,Centro,En línea,Carlos
+1473,2025-06-07,Pantalón,Ropa,513.05,1,0.0,513.05,Sur,En línea,Luis
+1005,2025-06-08,Teclado,Electrónica,682.34,1,0.05,648.22,Occidente,Tienda física,Diego
+1091,2025-06-08,Taza,Hogar,119.39,3,0.0,358.17,Centro,Marketplace,Carlos
+1155,2025-06-08,Botella deportiva,Deportes,178.01,1,0.15,151.31,Norte,En línea,María
+1354,2025-06-08,Tapete yoga,Deportes,383.44,2,0.0,766.88,Occidente,Tienda física,Ana
+1407,2025-06-08,Playera,Ropa,216.55,3,0.1,584.69,Occidente,Marketplace,Carlos
+1435,2025-06-08,Audífonos,Electrónica,424.64,2,0.1,764.35,Occidente,Marketplace,Diego
+1082,2025-06-09,Tapete yoga,Deportes,432.58,2,0.0,865.16,Centro,Marketplace,Luis
+1140,2025-06-09,Teclado,Electrónica,681.97,3,0.05,1943.61,Norte,Marketplace,María
+1004,2025-06-10,Teclado,Electrónica,601.52,1,0.1,541.37,Norte,Tienda física,Luis
+1121,2025-06-10,Botella deportiva,Deportes,208.69,5,0.15,886.93,Sur,Marketplace,María
+1298,2025-06-10,Pantalón,Ropa,466.92,1,0.0,466.92,Norte,En línea,Diego
+1030,2025-06-11,Mancuernas,Deportes,625.82,1,0.1,563.24,Occidente,Marketplace,Ana
+1285,2025-06-11,Mancuernas,Deportes,649.53,2,0.0,1299.06,Norte,Marketplace,Diego
+1047,2025-06-12,Cojín,Hogar,279.75,1,0.05,265.76,Sur,Marketplace,María
+1186,2025-06-12,Organizador,Hogar,312.67,5,0.15,1328.85,Centro,Marketplace,María
+1219,2025-06-13,Mouse,Electrónica,290.06,3,0.1,783.16,Sur,Marketplace,Ana
+1267,2025-06-13,Agenda,Papelería,171.11,1,0.0,171.11,Norte,En línea,Luis
+1020,2025-06-14,Lámpara,Hogar,416.54,3,0.05,1187.14,Centro,Tienda física,Carlos
+1031,2025-06-14,Sudadera,Ropa,556.86,1,0.0,556.86,Norte,Marketplace,Luis
+1214,2025-06-14,Lámpara,Hogar,384.15,1,0.0,384.15,Centro,Tienda física,Ana
+1205,2025-06-16,Playera,Ropa,245.16,1,0.1,220.64,Sur,En línea,Diego
+1222,2025-06-16,Pantalón,Ropa,456.14,2,0.15,775.44,Norte,Marketplace,Diego
+1114,2025-06-17,Cuaderno,Papelería,73.72,2,0.15,125.32,Occidente,En línea,María
+1335,2025-06-17,Sudadera,Ropa,521.37,1,0.1,469.23,Norte,Marketplace,Ana
+1073,2025-06-18,Bocina,Electrónica,891.65,1,0.05,847.07,Occidente,En línea,Sofía
+1176,2025-06-18,Pantalón,Ropa,460.59,2,0.0,921.18,Centro,En línea,Carlos
+1485,2025-06-18,Taza,Hogar,120.04,1,0.1,108.04,Occidente,Tienda física,Luis
+1231,2025-06-19,Pantalón,Ropa,532.96,1,0.0,532.96,Centro,Tienda física,María
+1054,2025-06-20,Mochila,Papelería,760.15,1,0.05,722.14,Centro,Marketplace,María
+1277,2025-06-20,Mouse,Electrónica,287.74,3,0.1,776.9,Norte,En línea,María
+1474,2025-06-20,Botella deportiva,Deportes,184.41,3,0.0,553.23,Occidente,En línea,Carlos
+1070,2025-06-21,Agenda,Papelería,172.95,1,0.0,172.95,Centro,Marketplace,Ana
+1124,2025-06-21,Cuaderno,Papelería,77.14,2,0.1,138.85,Centro,Marketplace,María
+1367,2025-06-21,Teclado,Electrónica,603.1,3,0.05,1718.84,Norte,En línea,Ana
+1109,2025-06-22,Bocina,Electrónica,838.87,2,0.15,1426.08,Centro,Tienda física,María
+1290,2025-06-22,Mouse,Electrónica,287.11,1,0.0,287.11,Occidente,Marketplace,Luis
+1076,2025-06-23,Audífonos,Electrónica,438.85,2,0.0,877.7,Occidente,En línea,Diego
+1276,2025-06-26,Audífonos,Electrónica,416.89,1,0.0,416.89,Occidente,Tienda física,Ana
+1282,2025-06-27,Lámpara,Hogar,375.87,2,0.0,751.74,Sur,En línea,Carlos
+1444,2025-06-28,Balón,Deportes,334.64,2,0.0,669.28,Occidente,En línea,María
+1235,2025-06-29,Balón,Deportes,349.51,3,0.1,943.68,Centro,Tienda física,María
+1284,2025-06-29,Playera,Ropa,217.8,1,0.15,185.13,Norte,Tienda física,María
+1185,2025-06-30,Sudadera,Ropa,533.99,3,0.15,1361.67,Occidente,Tienda física,Sofía
+1203,2025-06-30,Gorra,Ropa,163.59,1,0.05,155.41,Occidente,En línea,Diego
+1252,2025-06-30,Plumas,Papelería,57.27,2,0.0,114.54,Occidente,Tienda física,María
+1055,2025-07-01,Bocina,Electrónica,846.12,1,0.1,761.51,Occidente,Tienda física,Luis
+1183,2025-07-01,Audífonos,Electrónica,466.34,1,0.0,466.34,Norte,Marketplace,Diego
+1021,2025-07-02,Agenda,Papelería,148.12,1,0.0,148.12,Centro,En línea,Sofía
+1180,2025-07-02,Audífonos,Electrónica,425.49,1,0.05,404.22,Norte,Tienda física,Ana
+1405,2025-07-02,Botella deportiva,Deportes,186.39,1,0.05,177.07,Occidente,Tienda física,María
+1406,2025-07-02,Playera,Ropa,243.7,2,0.15,414.29,Norte,Marketplace,Ana
+1453,2025-07-02,Audífonos,Electrónica,474.96,2,0.05,902.42,Occidente,Tienda física,Luis
+1115,2025-07-04,Sudadera,Ropa,534.47,1,0.05,507.75,Norte,En línea,Carlos
+1159,2025-07-04,Cuaderno,Papelería,69.35,3,0.05,197.65,Sur,Tienda física,Ana
+1420,2025-07-04,Botella deportiva,Deportes,172.05,1,0.0,172.05,Centro,Marketplace,Ana
+1445,2025-07-05,Cuaderno,Papelería,81.94,1,0.15,69.65,Occidente,Marketplace,Carlos
+1017,2025-07-07,Mouse,Electrónica,260.46,4,0.15,885.56,Norte,Marketplace,María
+1344,2025-07-07,Botella deportiva,Deportes,202.97,3,0.0,608.91,Occidente,Tienda física,María
+1366,2025-07-09,Bocina,Electrónica,845.24,2,0.05,1605.96,Occidente,Marketplace,María
+1296,2025-07-10,Agenda,Papelería,175.89,3,0.15,448.52,Centro,Tienda física,Luis
+1449,2025-07-10,Agenda,Papelería,161.71,5,0.0,808.55,Centro,Tienda física,María
+1011,2025-07-12,Organizador,Hogar,322.62,1,0.0,322.62,Norte,Tienda física,María
+1488,2025-07-13,Botella deportiva,Deportes,195.84,1,0.15,166.46,Sur,Marketplace,Diego
+1351,2025-07-14,Cojín,Hogar,281.13,1,0.0,281.13,Sur,Marketplace,Ana
+1289,2025-07-17,Audífonos,Electrónica,405.06,1,0.0,405.06,Centro,Marketplace,Carlos
+1295,2025-07-18,Teclado,Electrónica,704.1,1,0.05,668.89,Occidente,En línea,Luis
+1305,2025-07-18,Organizador,Hogar,294.31,1,0.0,294.31,Norte,En línea,María
+1029,2025-07-19,Cuaderno,Papelería,72.18,3,0.15,184.06,Norte,Tienda física,Carlos
+1057,2025-07-19,Cojín,Hogar,238.81,1,0.0,238.81,Occidente,Marketplace,Diego
+1229,2025-07-19,Botella deportiva,Deportes,201.79,1,0.05,191.7,Sur,Tienda física,Carlos
+1331,2025-07-19,Mochila,Papelería,757.28,1,0.05,719.42,Occidente,En línea,Sofía
+1034,2025-07-22,Mancuernas,Deportes,650.61,1,0.0,650.61,Norte,Tienda física,Ana
+1113,2025-07-22,Agenda,Papelería,147.52,1,0.1,132.77,Centro,Marketplace,María
+1132,2025-07-22,Teclado,Electrónica,602.01,4,0.0,2408.04,Centro,Marketplace,Carlos
+1308,2025-07-22,Audífonos,Electrónica,427.14,1,0.0,427.14,Centro,Tienda física,Luis
+1330,2025-07-22,Cuaderno,Papelería,71.89,2,0.0,143.78,Norte,En línea,María
+1456,2025-07-22,Bocina,Electrónica,929.95,3,0.15,2371.37,Occidente,En línea,Sofía
+1158,2025-07-23,Agenda,Papelería,146.45,1,0.05,139.13,Occidente,Tienda física,Luis
+1134,2025-07-24,Mancuernas,Deportes,601.88,1,0.1,541.69,Occidente,Marketplace,María
+1079,2025-07-26,Playera,Ropa,207.78,1,0.0,207.78,Centro,En línea,Diego
+1126,2025-07-26,Cuaderno,Papelería,69.16,1,0.0,69.16,Occidente,En línea,Luis
+1131,2025-07-26,Organizador,Hogar,290.16,2,0.15,493.27,Occidente,Tienda física,Ana
+1116,2025-07-27,Organizador,Hogar,292.42,1,0.0,292.42,Centro,Marketplace,Ana
+1437,2025-07-27,Balón,Deportes,391.47,1,0.15,332.75,Norte,Marketplace,María
+1288,2025-07-28,Organizador,Hogar,310.94,5,0.05,1476.96,Centro,En línea,Luis
+1129,2025-07-29,Cuaderno,Papelería,80.33,2,0.15,136.56,Centro,En línea,María
+1228,2025-07-31,Botella deportiva,Deportes,199.08,5,0.1,895.86,Centro,En línea,María
+1266,2025-08-01,Plumas,Papelería,52.94,3,0.05,150.88,Centro,En línea,Diego
+1424,2025-08-01,Mochila,Papelería,630.29,4,0.0,2521.16,Norte,Tienda física,Diego
+1242,2025-08-02,Balón,Deportes,380.28,5,0.1,1711.26,Occidente,Tienda física,Diego
+1260,2025-08-03,Agenda,Papelería,169.64,1,0.0,169.64,Occidente,Tienda física,Carlos
+1270,2025-08-04,Plumas,Papelería,50.12,2,0.05,95.23,Centro,En línea,Diego
+1455,2025-08-06,Bocina,Electrónica,771.16,1,0.0,771.16,Norte,Marketplace,Carlos
+1468,2025-08-06,Plumas,Papelería,52.98,2,0.05,100.66,Norte,Marketplace,Diego
+1394,2025-08-07,Gorra,Ropa,183.28,2,0.0,366.56,Norte,En línea,Luis
+1137,2025-08-09,Plumas,Papelería,50.25,1,0.0,50.25,Occidente,Tienda física,María
+1494,2025-08-09,Bocina,Electrónica,875.74,1,0.15,744.38,Sur,En línea,Luis
+1193,2025-08-10,Taza,Hogar,109.39,4,0.1,393.8,Occidente,En línea,Ana
+1490,2025-08-10,Cuaderno,Papelería,71.17,3,0.15,181.48,Norte,En línea,Luis
+1269,2025-08-12,Lámpara,Hogar,380.88,3,0.0,1142.64,Occidente,Tienda física,Diego
+1323,2025-08-13,Teclado,Electrónica,620.51,1,0.0,620.51,Centro,En línea,Sofía
+1343,2025-08-15,Tapete yoga,Deportes,463.8,2,0.15,788.46,Occidente,En línea,Diego
+1240,2025-08-17,Organizador,Hogar,284.53,1,0.05,270.3,Centro,En línea,María
+1085,2025-08-18,Tapete yoga,Deportes,450.77,1,0.15,383.15,Norte,En línea,Luis
+1245,2025-08-18,Agenda,Papelería,173.36,2,0.0,346.72,Sur,Tienda física,Sofía
+1040,2025-08-19,Tapete yoga,Deportes,437.99,4,0.0,1751.96,Norte,En línea,Carlos
+1192,2025-08-19,Taza,Hogar,127.95,1,0.05,121.55,Occidente,Marketplace,Diego
+1130,2025-08-20,Cojín,Hogar,258.86,1,0.0,258.86,Norte,Tienda física,Diego
+1341,2025-08-20,Gorra,Ropa,173.06,1,0.0,173.06,Occidente,En línea,María
+1458,2025-08-20,Teclado,Electrónica,720.11,1,0.0,720.11,Sur,Tienda física,Diego
+1475,2025-08-20,Playera,Ropa,220.16,1,0.1,198.14,Sur,En línea,Luis
+1099,2025-08-21,Lámpara,Hogar,386.52,1,0.0,386.52,Occidente,Tienda física,Diego
+1026,2025-08-24,Bocina,Electrónica,924.05,2,0.0,1848.1,Norte,En línea,Carlos
+1244,2025-08-26,Lámpara,Hogar,376.42,1,0.0,376.42,Norte,Marketplace,Ana
+1003,2025-08-27,Plumas,Papelería,51.24,4,0.0,204.96,Sur,Tienda física,Ana
+1123,2025-08-27,Mochila,Papelería,693.14,1,0.05,658.48,Norte,Tienda física,María
+1316,2025-08-29,Gorra,Ropa,186.5,4,0.0,746.0,Centro,Tienda física,Sofía
+1156,2025-08-30,Agenda,Papelería,148.87,3,0.05,424.28,Norte,Tienda física,María
+1255,2025-08-30,Balón,Deportes,376.81,1,0.15,320.29,Sur,Tienda física,Ana
+1372,2025-08-30,Mancuernas,Deportes,620.59,1,0.05,589.56,Centro,Marketplace,Ana
+1446,2025-08-30,Playera,Ropa,240.14,2,0.1,432.25,Sur,Tienda física,María
+1108,2025-08-31,Lámpara,Hogar,352.07,3,0.0,1056.21,Sur,En línea,María
+1162,2025-08-31,Lámpara,Hogar,387.45,1,0.0,387.45,Sur,Marketplace,María
+1237,2025-08-31,Playera,Ropa,204.34,1,0.0,204.34,Sur,Tienda física,Diego
+1479,2025-08-31,Audífonos,Electrónica,414.26,2,0.0,828.52,Centro,Tienda física,María
+1122,2025-09-01,Bocina,Electrónica,790.77,1,0.0,790.77,Sur,En línea,Ana
+1311,2025-09-01,Cuaderno,Papelería,68.79,3,0.05,196.05,Norte,En línea,Diego
+1080,2025-09-02,Pantalón,Ropa,476.39,4,0.15,1619.73,Occidente,En línea,Carlos
+1283,2025-09-02,Organizador,Hogar,326.3,2,0.0,652.6,Sur,Marketplace,Carlos
+1312,2025-09-03,Pantalón,Ropa,492.39,1,0.05,467.77,Sur,Marketplace,Ana
+1049,2025-09-05,Sudadera,Ropa,503.91,2,0.0,1007.82,Occidente,Tienda física,María
+1257,2025-09-05,Sudadera,Ropa,486.53,2,0.0,973.06,Centro,Marketplace,Ana
+1416,2025-09-05,Mouse,Electrónica,311.02,2,0.0,622.04,Occidente,Tienda física,María
+1060,2025-09-07,Organizador,Hogar,341.03,2,0.0,682.06,Occidente,En línea,María
+1098,2025-09-07,Mochila,Papelería,666.09,3,0.0,1998.27,Centro,En línea,Sofía
+1191,2025-09-07,Pantalón,Ropa,449.54,2,0.0,899.08,Occidente,En línea,Diego
+1075,2025-09-08,Pantalón,Ropa,473.92,1,0.05,450.22,Sur,Marketplace,Diego
+1422,2025-09-11,Teclado,Electrónica,599.29,2,0.0,1198.58,Occidente,En línea,Ana
+1008,2025-09-12,Mouse,Electrónica,303.34,1,0.0,303.34,Occidente,Marketplace,Ana
+1175,2025-09-12,Cojín,Hogar,257.95,3,0.0,773.85,Norte,Marketplace,María
+1184,2025-09-12,Mancuernas,Deportes,609.44,5,0.0,3047.2,Norte,Tienda física,María
+1043,2025-09-13,Bocina,Electrónica,824.29,1,0.05,783.08,Centro,En línea,María
+1086,2025-09-13,Balón,Deportes,388.56,2,0.15,660.55,Centro,Tienda física,Ana
+1204,2025-09-13,Audífonos,Electrónica,423.66,1,0.0,423.66,Norte,En línea,Diego
+1223,2025-09-14,Bocina,Electrónica,858.06,2,0.0,1716.12,Norte,En línea,Diego
+1110,2025-09-15,Bocina,Electrónica,802.31,3,0.15,2045.89,Occidente,Tienda física,Luis
+1015,2025-09-19,Organizador,Hogar,298.65,2,0.05,567.43,Norte,Tienda física,Carlos
+1177,2025-09-19,Mancuernas,Deportes,540.14,1,0.0,540.14,Sur,Marketplace,Sofía
+1212,2025-09-19,Agenda,Papelería,173.64,4,0.05,659.83,Norte,Marketplace,Sofía
+1430,2025-09-19,Plumas,Papelería,59.41,2,0.0,118.82,Occidente,Tienda física,Luis
+1236,2025-09-20,Teclado,Electrónica,651.85,1,0.1,586.67,Norte,Marketplace,Sofía
+1395,2025-09-20,Taza,Hogar,132.59,1,0.0,132.59,Norte,Tienda física,Sofía
+1174,2025-09-21,Mochila,Papelería,718.3,1,0.05,682.38,Norte,Marketplace,Carlos
+1225,2025-09-21,Taza,Hogar,124.83,1,0.0,124.83,Sur,Marketplace,Ana
+1461,2025-09-22,Bocina,Electrónica,884.27,1,0.0,884.27,Centro,Tienda física,Sofía
+1318,2025-09-23,Taza,Hogar,127.9,1,0.05,121.5,Centro,Tienda física,Diego
+1317,2025-09-24,Mochila,Papelería,625.22,2,0.0,1250.44,Occidente,En línea,Luis
+1013,2025-09-26,Playera,Ropa,212.37,4,0.1,764.53,Sur,Marketplace,Diego
+1215,2025-09-26,Mouse,Electrónica,279.48,4,0.1,1006.13,Occidente,En línea,Ana
+1377,2025-09-26,Cojín,Hogar,235.86,1,0.15,200.48,Norte,En línea,Sofía
+1432,2025-09-27,Agenda,Papelería,152.04,4,0.15,516.94,Sur,Tienda física,María
+1471,2025-09-27,Organizador,Hogar,297.45,1,0.05,282.58,Sur,Tienda física,Luis
+1059,2025-09-29,Organizador,Hogar,336.59,2,0.0,673.18,Sur,Marketplace,Sofía
+1062,2025-09-29,Mouse,Electrónica,272.87,1,0.0,272.87,Norte,En línea,Diego
+1378,2025-09-30,Playera,Ropa,245.72,1,0.0,245.72,Norte,Tienda física,Carlos
+1391,2025-09-30,Agenda,Papelería,150.67,1,0.0,150.67,Centro,En línea,Carlos
+1360,2025-10-01,Gorra,Ropa,189.93,1,0.05,180.43,Norte,Tienda física,Carlos
+1463,2025-10-01,Teclado,Electrónica,726.35,3,0.1,1961.15,Norte,En línea,Carlos
+1493,2025-10-02,Mouse,Electrónica,267.27,4,0.0,1069.08,Norte,Marketplace,Carlos
+1042,2025-10-04,Sudadera,Ropa,537.9,2,0.15,914.43,Centro,Tienda física,María
+1234,2025-10-04,Taza,Hogar,126.61,1,0.0,126.61,Centro,Tienda física,Sofía
+1247,2025-10-04,Botella deportiva,Deportes,182.55,5,0.0,912.75,Sur,Tienda física,Ana
+1014,2025-10-05,Sudadera,Ropa,529.25,3,0.0,1587.75,Sur,Tienda física,Sofía
+1051,2025-10-05,Pantalón,Ropa,537.12,3,0.15,1369.66,Centro,Tienda física,Sofía
+1207,2025-10-06,Plumas,Papelería,49.99,2,0.15,84.98,Sur,Tienda física,Carlos
+1128,2025-10-07,Gorra,Ropa,183.02,1,0.0,183.02,Norte,Tienda física,Ana
+1423,2025-10-07,Cojín,Hogar,281.29,2,0.1,506.32,Norte,En línea,Luis
+1489,2025-10-07,Mancuernas,Deportes,582.45,1,0.0,582.45,Occidente,Tienda física,Carlos
+1089,2025-10-08,Bocina,Electrónica,803.71,1,0.1,723.34,Centro,En línea,Luis
+1320,2025-10-08,Cuaderno,Papelería,75.57,1,0.0,75.57,Norte,Tienda física,Sofía
+1173,2025-10-09,Teclado,Electrónica,626.34,2,0.05,1190.05,Norte,En línea,Sofía
+1370,2025-10-09,Pantalón,Ropa,451.86,1,0.1,406.67,Sur,Tienda física,Luis
+1002,2025-10-10,Tapete yoga,Deportes,387.73,1,0.0,387.73,Sur,En línea,Ana
+1402,2025-10-11,Cojín,Hogar,239.79,1,0.15,203.82,Sur,Marketplace,Diego
+1050,2025-10-12,Agenda,Papelería,157.1,1,0.0,157.1,Sur,Marketplace,Ana
+1107,2025-10-12,Tapete yoga,Deportes,430.39,3,0.1,1162.05,Sur,Marketplace,Ana
+1112,2025-10-12,Tapete yoga,Deportes,450.35,2,0.0,900.7,Norte,Marketplace,Diego
+1210,2025-10-12,Sudadera,Ropa,475.22,5,0.0,2376.1,Centro,Marketplace,Luis
+1025,2025-10-13,Tapete yoga,Deportes,412.78,5,0.0,2063.9,Norte,Marketplace,Diego
+1278,2025-10-13,Organizador,Hogar,314.61,2,0.0,629.22,Centro,Marketplace,María
+1016,2025-10-14,Mochila,Papelería,631.76,2,0.05,1200.34,Norte,En línea,Sofía
+1160,2025-10-14,Lámpara,Hogar,393.97,2,0.1,709.15,Sur,Tienda física,Diego
+1476,2025-10-14,Teclado,Electrónica,644.32,1,0.15,547.67,Centro,En línea,Carlos
+1106,2025-10-15,Cuaderno,Papelería,71.69,2,0.0,143.38,Sur,En línea,María
+1213,2025-10-15,Lámpara,Hogar,428.13,5,0.05,2033.62,Centro,Marketplace,Sofía
+1249,2025-10-15,Agenda,Papelería,144.15,2,0.0,288.3,Centro,Marketplace,Diego
+1261,2025-10-17,Balón,Deportes,372.7,1,0.1,335.43,Centro,Tienda física,Diego
+1071,2025-10-18,Bocina,Electrónica,898.38,3,0.1,2425.63,Norte,Marketplace,Sofía
+1105,2025-10-18,Sudadera,Ropa,563.67,1,0.05,535.49,Norte,En línea,Ana
+1135,2025-10-18,Bocina,Electrónica,913.56,2,0.0,1827.12,Norte,Marketplace,Carlos
+1484,2025-10-18,Bocina,Electrónica,937.58,2,0.05,1781.4,Sur,Marketplace,Ana
+1092,2025-10-21,Sudadera,Ropa,495.74,1,0.15,421.38,Sur,En línea,Luis
+1103,2025-10-21,Mouse,Electrónica,288.01,1,0.15,244.81,Sur,Marketplace,Ana
+1428,2025-10-21,Agenda,Papelería,158.47,2,0.05,301.09,Centro,Marketplace,Sofía
+1472,2025-10-21,Gorra,Ropa,179.35,1,0.1,161.41,Norte,En línea,Carlos
+1291,2025-10-22,Taza,Hogar,124.94,1,0.0,124.94,Centro,Marketplace,Ana
+1227,2025-10-23,Mancuernas,Deportes,624.21,3,0.0,1872.63,Occidente,En línea,Luis
+1336,2025-10-23,Mouse,Electrónica,307.45,1,0.1,276.7,Norte,En línea,María
+1166,2025-10-25,Playera,Ropa,235.49,1,0.0,235.49,Sur,Marketplace,Sofía
+1149,2025-10-27,Pantalón,Ropa,474.21,2,0.15,806.16,Sur,Tienda física,Carlos
+1028,2025-10-28,Sudadera,Ropa,502.54,4,0.1,1809.14,Occidente,En línea,Ana
+1302,2025-10-29,Sudadera,Ropa,476.21,3,0.05,1357.2,Occidente,Tienda física,Ana
+1433,2025-10-29,Lámpara,Hogar,375.76,1,0.0,375.76,Occidente,Tienda física,Carlos
+1038,2025-10-30,Audífonos,Electrónica,423.17,5,0.05,2010.06,Centro,En línea,Sofía
+1334,2025-10-30,Balón,Deportes,328.96,2,0.0,657.92,Centro,En línea,María
+1482,2025-10-30,Cuaderno,Papelería,70.87,2,0.05,134.65,Centro,Tienda física,María
+1084,2025-10-31,Mancuernas,Deportes,597.87,1,0.15,508.19,Occidente,En línea,Sofía
+1090,2025-10-31,Teclado,Electrónica,601.03,3,0.0,1803.09,Norte,Tienda física,Carlos
+1101,2025-10-31,Mancuernas,Deportes,657.48,2,0.0,1314.96,Norte,Tienda física,Sofía
+1388,2025-10-31,Balón,Deportes,380.27,1,0.0,380.27,Norte,En línea,Ana
+1019,2025-11-03,Mouse,Electrónica,262.55,2,0.05,498.84,Norte,En línea,María
+1459,2025-11-03,Plumas,Papelería,59.17,3,0.0,177.51,Norte,Tienda física,Luis
+1093,2025-11-04,Playera,Ropa,200.35,1,0.15,170.3,Occidente,Marketplace,Luis
+1361,2025-11-05,Pantalón,Ropa,441.93,4,0.05,1679.33,Occidente,Marketplace,María
+1477,2025-11-06,Cuaderno,Papelería,77.75,1,0.0,77.75,Norte,Tienda física,María
+1297,2025-11-07,Taza,Hogar,121.35,2,0.05,230.56,Centro,En línea,Sofía
+1146,2025-11-08,Agenda,Papelería,152.68,2,0.0,305.36,Norte,Marketplace,Luis
+1125,2025-11-09,Playera,Ropa,235.38,1,0.1,211.84,Sur,Marketplace,María
+1151,2025-11-09,Gorra,Ropa,181.4,2,0.05,344.66,Occidente,En línea,Sofía
+1232,2025-11-09,Lámpara,Hogar,426.75,3,0.0,1280.25,Sur,Marketplace,Luis
+1006,2025-11-10,Mochila,Papelería,739.33,1,0.0,739.33,Norte,Marketplace,Luis
+1037,2025-11-10,Audífonos,Electrónica,409.19,3,0.05,1166.19,Centro,Marketplace,María
+1427,2025-11-12,Bocina,Electrónica,935.79,1,0.0,935.79,Centro,En línea,Diego
+1492,2025-11-13,Balón,Deportes,326.39,4,0.1,1175.0,Sur,Tienda física,María
+1396,2025-11-16,Bocina,Electrónica,933.35,2,0.0,1866.7,Norte,Tienda física,Sofía
+1375,2025-11-20,Sudadera,Ropa,570.74,5,0.05,2711.01,Occidente,Tienda física,María
+1035,2025-11-21,Cojín,Hogar,270.04,3,0.1,729.11,Centro,Tienda física,Sofía
+1048,2025-11-22,Teclado,Electrónica,595.3,3,0.1,1607.31,Norte,Tienda física,Luis
+1358,2025-11-22,Plumas,Papelería,50.56,1,0.05,48.03,Occidente,En línea,Diego
+1362,2025-11-22,Bocina,Electrónica,824.87,1,0.15,701.14,Sur,En línea,Luis
+1389,2025-11-22,Teclado,Electrónica,726.17,1,0.1,653.55,Centro,Marketplace,Ana
+1364,2025-11-23,Lámpara,Hogar,384.3,1,0.1,345.87,Sur,Marketplace,Sofía
+1095,2025-11-24,Audífonos,Electrónica,466.39,1,0.0,466.39,Norte,En línea,Luis
+1304,2025-11-24,Tapete yoga,Deportes,433.39,4,0.15,1473.53,Centro,En línea,Luis
+1179,2025-11-25,Teclado,Electrónica,668.77,1,0.0,668.77,Centro,Marketplace,Ana
+1220,2025-11-26,Teclado,Electrónica,617.31,1,0.05,586.44,Occidente,Marketplace,María
+1067,2025-11-27,Cuaderno,Papelería,79.61,2,0.0,159.22,Sur,En línea,Ana
+1345,2025-11-27,Tapete yoga,Deportes,406.5,4,0.1,1463.4,Centro,Tienda física,Diego
+1202,2025-11-28,Taza,Hogar,120.24,2,0.05,228.46,Norte,En línea,Sofía
+1153,2025-12-01,Balón,Deportes,352.01,1,0.1,316.81,Sur,Tienda física,Carlos
+1324,2025-12-01,Gorra,Ropa,183.01,2,0.0,366.02,Norte,En línea,Carlos
+1061,2025-12-03,Organizador,Hogar,286.16,1,0.05,271.85,Occidente,Marketplace,Carlos
+1264,2025-12-04,Balón,Deportes,388.97,2,0.1,700.15,Occidente,Tienda física,Diego
+1452,2025-12-04,Playera,Ropa,224.86,1,0.05,213.62,Centro,En línea,María
+1024,2025-12-05,Gorra,Ropa,177.18,2,0.0,354.36,Sur,Marketplace,Diego
+1421,2025-12-05,Cojín,Hogar,276.71,2,0.1,498.08,Sur,En línea,Luis
+1438,2025-12-05,Cojín,Hogar,287.02,1,0.0,287.02,Sur,En línea,Ana
+1499,2025-12-05,Cojín,Hogar,281.01,1,0.1,252.91,Occidente,En línea,Diego
+1470,2025-12-07,Mouse,Electrónica,279.79,1,0.0,279.79,Occidente,Marketplace,Sofía
+1491,2025-12-07,Playera,Ropa,236.64,4,0.0,946.56,Sur,Marketplace,Diego
+1348,2025-12-08,Teclado,Electrónica,649.09,1,0.15,551.73,Centro,Marketplace,María
+1382,2025-12-08,Cuaderno,Papelería,81.29,1,0.0,81.29,Norte,Marketplace,Ana
+1409,2025-12-08,Mochila,Papelería,694.62,1,0.05,659.89,Sur,Marketplace,Sofía
+1181,2025-12-09,Cuaderno,Papelería,73.45,1,0.0,73.45,Sur,En línea,María
+1286,2025-12-09,Lámpara,Hogar,404.17,4,0.15,1374.18,Centro,Marketplace,Carlos
+1319,2025-12-09,Lámpara,Hogar,389.3,4,0.15,1323.62,Centro,En línea,Luis
+1081,2025-12-10,Sudadera,Ropa,494.9,1,0.15,420.66,Occidente,Marketplace,Luis
+1383,2025-12-12,Mochila,Papelería,694.02,1,0.0,694.02,Centro,Marketplace,Diego
+1340,2025-12-14,Cuaderno,Papelería,71.87,1,0.15,61.09,Norte,Marketplace,Luis
+1293,2025-12-15,Mouse,Electrónica,267.43,1,0.0,267.43,Sur,En línea,Sofía
+1448,2025-12-15,Taza,Hogar,133.66,1,0.0,133.66,Norte,Marketplace,Ana
+1274,2025-12-16,Cuaderno,Papelería,80.89,1,0.15,68.76,Sur,Tienda física,Ana
+1195,2025-12-17,Teclado,Electrónica,706.86,2,0.1,1272.35,Norte,En línea,María
+1451,2025-12-17,Mancuernas,Deportes,558.04,1,0.1,502.24,Sur,Marketplace,Diego
+1200,2025-12-18,Organizador,Hogar,307.98,1,0.0,307.98,Centro,Tienda física,Ana
+1337,2025-12-18,Bocina,Electrónica,904.71,1,0.0,904.71,Centro,Marketplace,Diego
+1466,2025-12-19,Mouse,Electrónica,262.21,1,0.0,262.21,Occidente,Tienda física,Sofía
+1064,2025-12-20,Cojín,Hogar,290.16,2,0.15,493.27,Centro,Marketplace,Sofía
+1208,2025-12-20,Bocina,Electrónica,940.01,3,0.15,2397.03,Norte,Tienda física,Ana
+1355,2025-12-20,Lámpara,Hogar,407.88,1,0.0,407.88,Centro,Marketplace,Luis
+1417,2025-12-20,Bocina,Electrónica,859.84,1,0.05,816.85,Sur,En línea,Sofía
+1046,2025-12-21,Pantalón,Ropa,486.15,2,0.05,923.68,Occidente,Tienda física,Diego
+1404,2025-12-21,Organizador,Hogar,319.33,1,0.1,287.4,Centro,Marketplace,Diego
+1325,2025-12-22,Gorra,Ropa,165.97,3,0.0,497.91,Occidente,Marketplace,Luis
+1441,2025-12-22,Cojín,Hogar,256.8,1,0.0,256.8,Centro,En línea,Luis
+1012,2025-12-23,Sudadera,Ropa,494.61,1,0.05,469.88,Centro,Marketplace,Luis
+1141,2025-12-25,Mochila,Papelería,760.37,2,0.1,1368.67,Occidente,En línea,Luis
+1265,2025-12-28,Sudadera,Ropa,522.22,5,0.05,2480.55,Norte,Tienda física,Carlos
+1347,2025-12-28,Mancuernas,Deportes,653.11,1,0.05,620.45,Occidente,Tienda física,Diego
+1145,2025-12-29,Tapete yoga,Deportes,379.83,1,0.05,360.84,Occidente,Tienda física,Ana
+1356,2025-12-29,Bocina,Electrónica,825.45,2,0.0,1650.9,Sur,En línea,María
+1161,2025-12-30,Cuaderno,Papelería,69.07,2,0.05,131.23,Norte,Marketplace,Luis
+1401,2025-12-31,Tapete yoga,Deportes,437.28,3,0.1,1180.66,Occidente,En línea,Diego
