@@ -4,7 +4,6 @@ from io import BytesIO
 import matplotlib.pyplot as plt
 import pandas as pd
 from typing import Optional
-from pathlib import Path
 from datetime import datetime
 
 
