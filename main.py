@@ -1,10 +1,17 @@
+import os
+from pathlib import Path
+
+# En Vercel solo /tmp es escribible: matplotlib guarda ahí su caché de fuentes
+os.environ.setdefault("MPLCONFIGDIR", "/tmp/matplotlib")
+
 from fastapi import FastAPI, HTTPException
 from fastapi.responses import StreamingResponse
 from io import BytesIO
+import matplotlib
+matplotlib.use("Agg")  # backend sin pantalla, necesario en servidores
 import matplotlib.pyplot as plt
 import pandas as pd
 from typing import Optional
-from datetime import datetime
 
 
 from fastapi.responses import HTMLResponse
